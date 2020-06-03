@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745976720660",
+    "firebase_url": "https://inmonutricion.firebaseio.com",
+    "project_id": "inmonutricion",
+    "storage_bucket": "inmonutricion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745976720660:android:86a39b75042872d0c5e601",
+        "android_client_info": {
+          "package_name": "com.example.inmonutricion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745976720660-4li06fd5jgjdeeiuau6ap41g2j72sfbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inmonutricion",
+            "certificate_hash": "43c63142859caf60a0dbd36792a5cb260fe620f6"
+          }
+        },
+        {
+          "client_id": "745976720660-a2nojueeki5fcpkelbo0f776mm2e67hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzG212wAf3FzrPipnmD6rA78GrfR0DzOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745976720660-a2nojueeki5fcpkelbo0f776mm2e67hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
